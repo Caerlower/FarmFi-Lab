@@ -63,7 +63,7 @@ FarmFi Labs has the potential to reshape the agriculture industry by:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/FarmFi-Labs.git
+   git clone https://github.com/your-username/FarmFi-Lab.git
    cd FarmFi-Labs
    ```
 
